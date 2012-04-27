@@ -1,0 +1,24 @@
+﻿{
+    "name": "Raining In Chrome"
+    ,"author":"BeiYuu"
+    ,"version":"1.1"
+    ,"description":"Raining Makes Everything Better"
+
+    ,"icons":{
+        "16":"assets/16.png"
+        ,"48":"assets/48.png"
+        ,"128":"assets/128.png"
+    }
+    ,"browser_action": {
+        "default_icon": "assets/sun.png"
+        ,"default_title":"Raining Makes Everything Better"
+    }
+    ,"permissions":[
+        "background"
+    ]
+
+    ,"options_page": "options.html"
+    ,"background_page": "background.html"
+
+    ,"update_url": "http://beiyuu.com/images/rainingchrome/update.xml"
+}
