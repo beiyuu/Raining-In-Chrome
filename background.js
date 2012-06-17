@@ -16,7 +16,7 @@ function togglePlay(){
 
 chrome.browserAction.onClicked.addListener(function(tab) {
     if(!hasSetRain){
-        player.setAttribute('src','http://174.36.223.28/audio/RainyMood.m4a');
+        player.setAttribute('src','http://174.36.223.28/audio2/RainyMood.m4a');
         hasSetRain = true;
     }
     togglePlay();
