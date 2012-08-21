@@ -1,8 +1,8 @@
 ﻿{
-    "name": "Raining In Chrome"
-    ,"version":"1.4"
+    "name": "It's Raining"
+    ,"version":"1.6"
     ,"manifest_version":2
-    ,"description":"Raining Makes Everything Better"
+    ,"description":"Rain Makes Everything Better"
 
     ,"icons":{
         "16":"assets/16.png"
@@ -21,6 +21,4 @@
     ,"background": {
         "page":"background.html"
     }
-
-    ,"update_url": "http://beiyuu.com/images/rainingchrome/update.xml"
 }
